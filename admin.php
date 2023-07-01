@@ -71,8 +71,8 @@
       <div class="panel">
         <div class="jumbotron text-center">
            <h1>Thank You! for your support and love.</h1>
-           <p> <strong>OSWA-INV v2</strong> way more better then <strong> v1 </strong>.
-           </br>If you have a question regarding the usage of this applications, please ask on <a href="https://www.facebook.com/oswapp" title="Facebook" target="_blank">Facebook</a> OSWA Fan page.</p>
+           <p> <strong>RNM</strong> dedicated towards your achievement. <strong> </strong>.
+           </br>If you have a question regarding the usage of this applications, please ask on <a href="https://www.linkedin.com/in/nakshatra-trivedi-71ab5419a/" title="Linkedin" target="_blank">LinkedIn</a> RNM</p>
 
         </div>
       </div>
