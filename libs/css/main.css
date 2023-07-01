@@ -6,7 +6,8 @@ body{
   background: #f1f2f7;
   height: 100%;
   width: 100%;
-}a{
+}
+a{
   color #777;
   text-decoration: none;
 }.padding-top{
@@ -34,6 +35,8 @@ body{
 .bg-green{
   background-color: #A3C86D;
 }
+
+
 .bg-blue{
   background-color: #7ACBEE;
 }
@@ -274,7 +277,7 @@ table tfoot tr td:first-child{
   background-color:#d0ac2c;
   border-color: #dfba3c;
 }.btn-danger{
-  background-color: #ed5153
+  background-color: #e54c4e
 }.btn-danger:hover, .btn-danger:focus, .btn-danger.focus, .btn-danger:active, .btn-danger.active{
   background-color:#bb282a
 }.input-group-addon{
